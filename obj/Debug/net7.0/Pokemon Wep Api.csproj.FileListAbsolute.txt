@@ -1,0 +1,78 @@
+D:\TestProjectsDotNet\New folder\Pokemon Wep Api\bin\Debug\net7.0\appsettings.Development.json
+D:\TestProjectsDotNet\New folder\Pokemon Wep Api\bin\Debug\net7.0\appsettings.json
+D:\TestProjectsDotNet\New folder\Pokemon Wep Api\bin\Debug\net7.0\Pokemon Wep Api.exe
+D:\TestProjectsDotNet\New folder\Pokemon Wep Api\bin\Debug\net7.0\Pokemon Wep Api.deps.json
+D:\TestProjectsDotNet\New folder\Pokemon Wep Api\bin\Debug\net7.0\Pokemon Wep Api.runtimeconfig.json
+D:\TestProjectsDotNet\New folder\Pokemon Wep Api\bin\Debug\net7.0\Pokemon Wep Api.dll
+D:\TestProjectsDotNet\New folder\Pokemon Wep Api\bin\Debug\net7.0\Pokemon Wep Api.pdb
+D:\TestProjectsDotNet\New folder\Pokemon Wep Api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\TestProjectsDotNet\New folder\Pokemon Wep Api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\TestProjectsDotNet\New folder\Pokemon Wep Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\TestProjectsDotNet\New folder\Pokemon Wep Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\TestProjectsDotNet\New folder\Pokemon Wep Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\TestProjectsDotNet\New folder\Pokemon Wep Api\obj\Debug\net7.0\Pokemon Wep Api.csproj.AssemblyReference.cache
+D:\TestProjectsDotNet\New folder\Pokemon Wep Api\obj\Debug\net7.0\Pokemon Wep Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\TestProjectsDotNet\New folder\Pokemon Wep Api\obj\Debug\net7.0\Pokemon Wep Api.AssemblyInfoInputs.cache
+D:\TestProjectsDotNet\New folder\Pokemon Wep Api\obj\Debug\net7.0\Pokemon Wep Api.AssemblyInfo.cs
+D:\TestProjectsDotNet\New folder\Pokemon Wep Api\obj\Debug\net7.0\Pokemon Wep Api.csproj.CoreCompileInputs.cache
+D:\TestProjectsDotNet\New folder\Pokemon Wep Api\obj\Debug\net7.0\Pokemon Wep Api.MvcApplicationPartsAssemblyInfo.cs
+D:\TestProjectsDotNet\New folder\Pokemon Wep Api\obj\Debug\net7.0\Pokemon Wep Api.MvcApplicationPartsAssemblyInfo.cache
+D:\TestProjectsDotNet\New folder\Pokemon Wep Api\obj\Debug\net7.0\staticwebassets\msbuild.Pokemon Wep Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\TestProjectsDotNet\New folder\Pokemon Wep Api\obj\Debug\net7.0\staticwebassets\msbuild.build.Pokemon Wep Api.props
+D:\TestProjectsDotNet\New folder\Pokemon Wep Api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Pokemon Wep Api.props
+D:\TestProjectsDotNet\New folder\Pokemon Wep Api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Pokemon Wep Api.props
+D:\TestProjectsDotNet\New folder\Pokemon Wep Api\obj\Debug\net7.0\staticwebassets.pack.json
+D:\TestProjectsDotNet\New folder\Pokemon Wep Api\obj\Debug\net7.0\staticwebassets.build.json
+D:\TestProjectsDotNet\New folder\Pokemon Wep Api\obj\Debug\net7.0\staticwebassets.development.json
+D:\TestProjectsDotNet\New folder\Pokemon Wep Api\obj\Debug\net7.0\scopedcss\bundle\Pokemon Wep Api.styles.css
+D:\TestProjectsDotNet\New folder\Pokemon Wep Api\obj\Debug\net7.0\Pokemon Wep Api.csproj.CopyComplete
+D:\TestProjectsDotNet\New folder\Pokemon Wep Api\obj\Debug\net7.0\Pokemon Wep Api.dll
+D:\TestProjectsDotNet\New folder\Pokemon Wep Api\obj\Debug\net7.0\refint\Pokemon Wep Api.dll
+D:\TestProjectsDotNet\New folder\Pokemon Wep Api\obj\Debug\net7.0\Pokemon Wep Api.pdb
+D:\TestProjectsDotNet\New folder\Pokemon Wep Api\obj\Debug\net7.0\Pokemon Wep Api.genruntimeconfig.cache
+D:\TestProjectsDotNet\New folder\Pokemon Wep Api\obj\Debug\net7.0\ref\Pokemon Wep Api.dll
+D:\TestProjectsDotNet\New folder\Pokemon Wep Api\bin\Debug\net7.0\Azure.Core.dll
+D:\TestProjectsDotNet\New folder\Pokemon Wep Api\bin\Debug\net7.0\Azure.Identity.dll
+D:\TestProjectsDotNet\New folder\Pokemon Wep Api\bin\Debug\net7.0\Humanizer.dll
+D:\TestProjectsDotNet\New folder\Pokemon Wep Api\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\TestProjectsDotNet\New folder\Pokemon Wep Api\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\TestProjectsDotNet\New folder\Pokemon Wep Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\TestProjectsDotNet\New folder\Pokemon Wep Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\TestProjectsDotNet\New folder\Pokemon Wep Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\TestProjectsDotNet\New folder\Pokemon Wep Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\TestProjectsDotNet\New folder\Pokemon Wep Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\TestProjectsDotNet\New folder\Pokemon Wep Api\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\TestProjectsDotNet\New folder\Pokemon Wep Api\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\TestProjectsDotNet\New folder\Pokemon Wep Api\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\TestProjectsDotNet\New folder\Pokemon Wep Api\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\TestProjectsDotNet\New folder\Pokemon Wep Api\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\TestProjectsDotNet\New folder\Pokemon Wep Api\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\TestProjectsDotNet\New folder\Pokemon Wep Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\TestProjectsDotNet\New folder\Pokemon Wep Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\TestProjectsDotNet\New folder\Pokemon Wep Api\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\TestProjectsDotNet\New folder\Pokemon Wep Api\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\TestProjectsDotNet\New folder\Pokemon Wep Api\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\TestProjectsDotNet\New folder\Pokemon Wep Api\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\TestProjectsDotNet\New folder\Pokemon Wep Api\bin\Debug\net7.0\System.CodeDom.dll
+D:\TestProjectsDotNet\New folder\Pokemon Wep Api\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\TestProjectsDotNet\New folder\Pokemon Wep Api\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\TestProjectsDotNet\New folder\Pokemon Wep Api\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\TestProjectsDotNet\New folder\Pokemon Wep Api\bin\Debug\net7.0\System.Memory.Data.dll
+D:\TestProjectsDotNet\New folder\Pokemon Wep Api\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\TestProjectsDotNet\New folder\Pokemon Wep Api\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\TestProjectsDotNet\New folder\Pokemon Wep Api\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\TestProjectsDotNet\New folder\Pokemon Wep Api\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\TestProjectsDotNet\New folder\Pokemon Wep Api\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\TestProjectsDotNet\New folder\Pokemon Wep Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\TestProjectsDotNet\New folder\Pokemon Wep Api\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TestProjectsDotNet\New folder\Pokemon Wep Api\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TestProjectsDotNet\New folder\Pokemon Wep Api\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TestProjectsDotNet\New folder\Pokemon Wep Api\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TestProjectsDotNet\New folder\Pokemon Wep Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\TestProjectsDotNet\New folder\Pokemon Wep Api\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\TestProjectsDotNet\New folder\Pokemon Wep Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\TestProjectsDotNet\New folder\Pokemon Wep Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\TestProjectsDotNet\New folder\Pokemon Wep Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\TestProjectsDotNet\New folder\Pokemon Wep Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\TestProjectsDotNet\New folder\Pokemon Wep Api\bin\Debug\net7.0\AutoMapper.dll
+D:\TestProjectsDotNet\New folder\Pokemon Wep Api\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
